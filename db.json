@@ -1,42 +1,47 @@
 {
-	"logs": [
-		{
-			"id": 1,
-			"message": "Change hardrive on workstation #005",
-			"attention": false,
-			"date": "03-02-2019",
-			"tech": "Sam Smith"
-		},
-		{
-			"id": 2,
-			"message": "Workstation not posting",
-			"attention": true,
-			"date": "05-02-2019",
-			"tech": "Frank Cornando"
-		},
-		{
-			"id": 3,
-			"message": "Switch monitors on workstation #009",
-			"attention": false,
-			"date": "02-09-2019",
-			"tech": "Sam Smith"
-		}
-	],
-	"techs": [
-		{
-			"id": 1,
-			"firstName": "John",
-			"lastName": "Wu"
-		},
-		{
-			"id": 2,
-			"firstName": "Kazami",
-			"lastName": "Misato"
-		},
-		{
-			"id": 3,
-			"firstName": "Mason",
-			"lastName": "Walker"
-		}
-	]
+  "logs": [
+    {
+      "id": 1,
+      "message": "Change hardrive on workstation #005",
+      "attention": false,
+      "date": "03-02-2019",
+      "tech": "Sam Smith"
+    },
+    {
+      "id": 2,
+      "message": "Workstation not posting",
+      "attention": true,
+      "date": "05-02-2019",
+      "tech": "Frank Cornando"
+    },
+    {
+      "id": 3,
+      "message": "Switch monitors on workstation #009",
+      "attention": false,
+      "date": "02-09-2019",
+      "tech": "Sam Smith"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Wu"
+    },
+    {
+      "id": 2,
+      "firstName": "Kazami",
+      "lastName": "Misato"
+    },
+    {
+      "id": 3,
+      "firstName": "Mason",
+      "lastName": "Walker"
+    },
+    {
+      "firstName": "Jason",
+      "lastName": "Samerson",
+      "id": 4
+    }
+  ]
 }
