@@ -30,7 +30,8 @@ const LogList = ({ log: { logs, loading }, getLogs }) => {
 };
 
 LogItem.propTypes = {
-	logs: PropTypes.object.isRequired
+	logs: PropTypes.object.isRequired,
+	getLogs: PropTypes.func.isRequired
 };
 
 const mapStateToProps = state => ({
