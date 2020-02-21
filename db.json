@@ -1,25 +1,18 @@
 {
   "logs": [
     {
-      "message": "Replace server on workstation #006",
-      "attention": true,
-      "tech": "John Meida",
-      "date": "2020-02-21T01:03:03.815Z",
-      "id": 1
-    },
-    {
-      "message": "Create work files for workstation #2",
-      "attention": true,
-      "tech": "John Meida",
-      "date": "2020-02-21T01:03:51.663Z",
-      "id": 2
-    },
-    {
       "message": "Complete Log entry for workstation #012",
       "attention": true,
       "tech": "Oliver Jones",
       "date": "2020-02-21T01:04:19.769Z",
       "id": 3
+    },
+    {
+      "message": "Install monitor for workstation #042",
+      "attention": true,
+      "tech": "Jane Austine",
+      "date": "2020-02-21T02:10:13.550Z",
+      "id": 4
     }
   ],
   "techs": [
