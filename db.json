@@ -15,40 +15,32 @@
       "date": "2020-02-21T05:46:10.750Z"
     },
     {
-      "message": "Purchase dual monitors for workstation #003 to #005",
-      "attention": true,
-      "tech": "John Meida",
-      "date": "2020-02-21T06:38:49.564Z",
-      "id": 5
-    },
-    {
       "message": "Set fire on harddrive",
       "attention": true,
       "tech": "Kazami Misato",
       "date": "2020-02-21T23:10:19.454Z",
       "id": 6
+    },
+    {
+      "message": "Celebrate the new recruit",
+      "attention": true,
+      "tech": "Tony Maeda",
+      "date": "2020-02-21T23:27:15.717Z",
+      "id": 7
     }
   ],
   "techs": [
     {
-      "id": 1,
-      "firstName": "Johny Masion",
-      "lastName": "Wu"
+      "firstName": "John",
+      "lastName": "Maeda",
+      "date": "2020-02-21T23:19:00.304Z",
+      "id": 6
     },
     {
-      "id": 2,
-      "firstName": "Kazami",
-      "lastName": "Misato"
-    },
-    {
-      "id": 3,
-      "firstName": "Mason",
-      "lastName": "Walker"
-    },
-    {
-      "firstName": "Jason",
-      "lastName": "Samerson",
-      "id": 4
+      "firstName": "Tony",
+      "lastName": "Maeda",
+      "date": "2020-02-21T23:26:23.676Z",
+      "id": 7
     }
   ]
 }
