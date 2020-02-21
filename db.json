@@ -4,8 +4,8 @@
       "id": 3,
       "message": "Complete Log entry for workstation #012",
       "attention": false,
-      "tech": "Oliver Jones",
-      "date": "2020-02-21T05:45:46.314Z"
+      "tech": "Mason Walker",
+      "date": "2020-02-21T23:11:26.841Z"
     },
     {
       "id": 4,
@@ -20,6 +20,13 @@
       "tech": "John Meida",
       "date": "2020-02-21T06:38:49.564Z",
       "id": 5
+    },
+    {
+      "message": "Set fire on harddrive",
+      "attention": true,
+      "tech": "Kazami Misato",
+      "date": "2020-02-21T23:10:19.454Z",
+      "id": 6
     }
   ],
   "techs": [
