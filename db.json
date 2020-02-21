@@ -1,46 +1,25 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "Change hardrive on workstation #005",
-      "attention": false,
-      "date": "03-02-2019",
-      "tech": "Sam Smith"
-    },
-    {
-      "id": 2,
-      "message": "Workstation not posting",
-      "attention": true,
-      "date": "05-02-2019",
-      "tech": "Frank Cornando"
-    },
-    {
-      "id": 3,
-      "message": "Switch monitors on workstation #009",
-      "attention": false,
-      "date": "02-09-2019",
-      "tech": "Sam Smith"
-    },
-    {
-      "message": "Add speaker to workstation #005",
+      "message": "Replace server on workstation #006",
       "attention": true,
       "tech": "John Meida",
-      "date": "2020-02-21T00:59:55.129Z",
-      "id": 4
+      "date": "2020-02-21T01:03:03.815Z",
+      "id": 1
     },
     {
-      "message": "Clean the workstation #018",
+      "message": "Create work files for workstation #2",
       "attention": true,
-      "tech": "Jane Austine",
-      "date": "2020-02-21T01:00:26.394Z",
-      "id": 5
+      "tech": "John Meida",
+      "date": "2020-02-21T01:03:51.663Z",
+      "id": 2
     },
     {
-      "message": "Setup new workstation #043",
+      "message": "Complete Log entry for workstation #012",
       "attention": true,
-      "tech": "Jane Austine",
-      "date": "2020-02-21T01:01:02.180Z",
-      "id": 6
+      "tech": "Oliver Jones",
+      "date": "2020-02-21T01:04:19.769Z",
+      "id": 3
     }
   ],
   "techs": [
