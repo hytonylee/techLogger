@@ -7,7 +7,7 @@ import {
 } from './types';
 
 // get techs from server
-export const getTech = () => async dispatch => {
+export const getTechs = () => async dispatch => {
 	try {
 		setLoading();
 		const res = await fetch('/techs');
