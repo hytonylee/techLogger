@@ -13,6 +13,13 @@
       "attention": false,
       "tech": "Jane Austine",
       "date": "2020-02-21T05:46:10.750Z"
+    },
+    {
+      "message": "Purchase dual monitors for workstation #003 to #005",
+      "attention": true,
+      "tech": "John Meida",
+      "date": "2020-02-21T06:38:49.564Z",
+      "id": 5
     }
   ],
   "techs": [
