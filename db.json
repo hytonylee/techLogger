@@ -1,18 +1,18 @@
 {
   "logs": [
     {
+      "id": 3,
       "message": "Complete Log entry for workstation #012",
-      "attention": true,
+      "attention": false,
       "tech": "Oliver Jones",
-      "date": "2020-02-21T01:04:19.769Z",
-      "id": 3
+      "date": "2020-02-21T05:45:46.314Z"
     },
     {
-      "message": "Install monitor for workstation #042",
-      "attention": true,
+      "id": 4,
+      "message": "Install monitor for workstation #043",
+      "attention": false,
       "tech": "Jane Austine",
-      "date": "2020-02-21T02:10:13.550Z",
-      "id": 4
+      "date": "2020-02-21T05:46:10.750Z"
     }
   ],
   "techs": [
